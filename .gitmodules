@@ -1,0 +1,4 @@
+[submodule "software/mpu9x50"]
+	path = software/mpu9x50
+	url = https://github.com/lki1354/micropython-mpu9x50.git
+	branch = intelEdison-mpu9x50
